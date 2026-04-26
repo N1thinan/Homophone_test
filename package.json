@@ -1,0 +1,14 @@
+{
+  "name": "homophone-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client",
+    "start:server": "node server/index.js",
+    "start:client": "npm start --prefix client",
+    "start": "concurrently --kill-others-on-fail --names \"server,client\" --prefix-colors \"blue,green\" \"npm:start:server\" \"npm:start:client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
