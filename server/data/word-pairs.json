@@ -1,0 +1,63 @@
+[
+  {"id": 1,  "pair": ["ship", "sheep"],   "definitions": {"ship": "a large boat", "sheep": "a wooly farm animal"}, "examples": {"ship": "The ship sailed slowly", "sheep": "The sheep ate grass"}, "difficulty": "easy"},
+  {"id": 2,  "pair": ["bit", "beat"],     "definitions": {"bit": "a small piece", "beat": "to hit; rhythm"}, "examples": {"bit": "Just a bit more", "beat": "I beat the drum"}, "difficulty": "easy"},
+  {"id": 3,  "pair": ["sit", "seat"],     "definitions": {"sit": "to rest on a chair", "seat": "a place to sit"}, "examples": {"sit": "Please sit down", "seat": "Take a seat"}, "difficulty": "easy"},
+  {"id": 4,  "pair": ["live", "leave"],   "definitions": {"live": "to be alive", "leave": "to go away"}, "examples": {"live": "I live in town", "leave": "Leave me alone"}, "difficulty": "easy"},
+  {"id": 5,  "pair": ["fit", "feet"],     "definitions": {"fit": "to be the right size", "feet": "plural of foot"}, "examples": {"fit": "The shoes fit", "feet": "My feet hurt"}, "difficulty": "easy"},
+  {"id": 6,  "pair": ["fill", "feel"],    "definitions": {"fill": "to make full", "feel": "to sense by touch"}, "examples": {"fill": "Fill the cup", "feel": "I feel cold"}, "difficulty": "easy"},
+  {"id": 7,  "pair": ["chip", "cheap"],   "definitions": {"chip": "a small fragment", "cheap": "low in cost"}, "examples": {"chip": "A chip of wood", "cheap": "Very cheap food"}, "difficulty": "easy"},
+
+  {"id": 8,  "pair": ["bad", "bed"],      "definitions": {"bad": "not good", "bed": "where you sleep"}, "examples": {"bad": "A bad idea", "bed": "Go to bed"}, "difficulty": "easy"},
+  {"id": 9,  "pair": ["man", "men"],      "definitions": {"man": "an adult male", "men": "plural of man"}, "examples": {"man": "That man is tall", "men": "Three men arrived"}, "difficulty": "easy"},
+  {"id": 10, "pair": ["pan", "pen"],      "definitions": {"pan": "a cooking dish", "pen": "a writing tool"}, "examples": {"pan": "Use a hot pan", "pen": "Sign with a pen"}, "difficulty": "easy"},
+  {"id": 11, "pair": ["bag", "beg"],      "definitions": {"bag": "a sack", "beg": "to ask urgently"}, "examples": {"bag": "Pack the bag", "beg": "I beg you"}, "difficulty": "easy"},
+  {"id": 12, "pair": ["sat", "set"],      "definitions": {"sat": "past of sit", "set": "to place"}, "examples": {"sat": "I sat down", "set": "Set it here"}, "difficulty": "easy"},
+
+  {"id": 13, "pair": ["cat", "cut"],      "definitions": {"cat": "a small pet animal", "cut": "to slice"}, "examples": {"cat": "The cat purrs", "cut": "Cut the rope"}, "difficulty": "easy"},
+  {"id": 14, "pair": ["hat", "hut"],      "definitions": {"hat": "head covering", "hut": "a small shelter"}, "examples": {"hat": "Wear a hat", "hut": "A wooden hut"}, "difficulty": "easy"},
+  {"id": 15, "pair": ["cap", "cup"],      "definitions": {"cap": "a soft hat", "cup": "drinking vessel"}, "examples": {"cap": "A red cap", "cup": "A cup of tea"}, "difficulty": "easy"},
+  {"id": 16, "pair": ["bag", "bug"],      "definitions": {"bag": "a sack", "bug": "an insect"}, "examples": {"bag": "Heavy bag", "bug": "A small bug"}, "difficulty": "easy"},
+
+  {"id": 17, "pair": ["pin", "pen"],      "definitions": {"pin": "a thin pointed object", "pen": "a writing tool"}, "examples": {"pin": "A safety pin", "pen": "A blue pen"}, "difficulty": "medium"},
+  {"id": 18, "pair": ["bit", "bet"],      "definitions": {"bit": "a small piece", "bet": "to wager"}, "examples": {"bit": "Just a bit", "bet": "I'll bet you"}, "difficulty": "medium"},
+
+  {"id": 19, "pair": ["light", "right"],  "definitions": {"light": "brightness", "right": "correct; opposite of left"}, "examples": {"light": "Turn on the light", "right": "That's right"}, "difficulty": "medium"},
+  {"id": 20, "pair": ["lock", "rock"],    "definitions": {"lock": "a fastener", "rock": "a stone"}, "examples": {"lock": "Lock the door", "rock": "A heavy rock"}, "difficulty": "medium"},
+  {"id": 21, "pair": ["long", "wrong"],   "definitions": {"long": "great length", "wrong": "incorrect"}, "examples": {"long": "A long road", "wrong": "That's wrong"}, "difficulty": "medium"},
+  {"id": 22, "pair": ["lake", "rake"],    "definitions": {"lake": "body of water", "rake": "garden tool"}, "examples": {"lake": "Swim in the lake", "rake": "Use a rake"}, "difficulty": "medium"},
+  {"id": 23, "pair": ["lice", "rice"],    "definitions": {"lice": "small parasites", "rice": "edible grain"}, "examples": {"lice": "Treat the lice", "rice": "Cook rice"}, "difficulty": "medium"},
+  {"id": 24, "pair": ["lane", "rain"],    "definitions": {"lane": "a narrow road", "rain": "water from the sky"}, "examples": {"lane": "Down the lane", "rain": "Heavy rain falls"}, "difficulty": "medium"},
+  {"id": 25, "pair": ["led", "red"],      "definitions": {"led": "past of lead", "red": "the color red"}, "examples": {"led": "He led the way", "red": "A red apple"}, "difficulty": "medium"},
+
+  {"id": 26, "pair": ["fan", "van"],      "definitions": {"fan": "a cooling device", "van": "a small truck"}, "examples": {"fan": "Turn the fan on", "van": "A delivery van"}, "difficulty": "medium"},
+  {"id": 27, "pair": ["fat", "vat"],      "definitions": {"fat": "having body mass", "vat": "a large container"}, "examples": {"fat": "A fat cat", "vat": "A vat of oil"}, "difficulty": "medium"},
+  {"id": 28, "pair": ["ferry", "very"],   "definitions": {"ferry": "a passenger boat", "very": "to a high degree"}, "examples": {"ferry": "Take the ferry", "very": "Very nice indeed"}, "difficulty": "medium"},
+  {"id": 29, "pair": ["leaf", "leave"],   "definitions": {"leaf": "part of a plant", "leave": "to go away"}, "examples": {"leaf": "A green leaf", "leave": "I have to leave"}, "difficulty": "medium"},
+  {"id": 30, "pair": ["safe", "save"],    "definitions": {"safe": "secure", "save": "to rescue or store"}, "examples": {"safe": "Stay safe", "save": "Save the file"}, "difficulty": "medium"},
+
+  {"id": 31, "pair": ["pat", "bat"],      "definitions": {"pat": "a gentle tap", "bat": "a flying mammal; a club"}, "examples": {"pat": "Pat the dog", "bat": "Swing the bat"}, "difficulty": "medium"},
+  {"id": 32, "pair": ["pig", "big"],      "definitions": {"pig": "a farm animal", "big": "large in size"}, "examples": {"pig": "The pig is pink", "big": "A big house"}, "difficulty": "medium"},
+  {"id": 33, "pair": ["pack", "back"],    "definitions": {"pack": "to bundle up", "back": "the rear side"}, "examples": {"pack": "Pack your bag", "back": "Look back"}, "difficulty": "medium"},
+  {"id": 34, "pair": ["pull", "bull"],    "definitions": {"pull": "to drag toward you", "bull": "a male cow"}, "examples": {"pull": "Pull the rope", "bull": "An angry bull"}, "difficulty": "medium"},
+  {"id": 35, "pair": ["pin", "bin"],      "definitions": {"pin": "a sharp fastener", "bin": "a storage container"}, "examples": {"pin": "A small pin", "bin": "Trash bin"}, "difficulty": "medium"},
+
+  {"id": 36, "pair": ["base", "vase"],    "definitions": {"base": "the bottom", "vase": "a flower container"}, "examples": {"base": "The base of the wall", "vase": "A glass vase"}, "difficulty": "hard"},
+  {"id": 37, "pair": ["boat", "vote"],    "definitions": {"boat": "a small water vessel", "vote": "to choose officially"}, "examples": {"boat": "Sail the boat", "vote": "Cast your vote"}, "difficulty": "hard"},
+  {"id": 38, "pair": ["ban", "van"],      "definitions": {"ban": "to forbid", "van": "a small truck"}, "examples": {"ban": "Ban the law", "van": "Drive the van"}, "difficulty": "hard"},
+  {"id": 39, "pair": ["berry", "very"],   "definitions": {"berry": "small fruit", "very": "to a high degree"}, "examples": {"berry": "A sweet berry", "very": "Very tasty"}, "difficulty": "hard"},
+
+  {"id": 40, "pair": ["vine", "wine"],    "definitions": {"vine": "a climbing plant", "wine": "fermented grape drink"}, "examples": {"vine": "Grape vine", "wine": "Red wine"}, "difficulty": "hard"},
+  {"id": 41, "pair": ["vest", "west"],    "definitions": {"vest": "a sleeveless top", "west": "direction toward sunset"}, "examples": {"vest": "Wear the vest", "west": "Travel west"}, "difficulty": "hard"},
+
+  {"id": 42, "pair": ["think", "sink"],   "definitions": {"think": "to use the mind", "sink": "kitchen basin; to descend"}, "examples": {"think": "Think hard", "sink": "Wash in the sink"}, "difficulty": "hard"},
+  {"id": 43, "pair": ["thin", "sin"],     "definitions": {"thin": "narrow", "sin": "an immoral act"}, "examples": {"thin": "A thin slice", "sin": "Avoid sin"}, "difficulty": "hard"},
+  {"id": 44, "pair": ["thick", "sick"],   "definitions": {"thick": "dense or wide", "sick": "unwell"}, "examples": {"thick": "Thick fog", "sick": "I feel sick"}, "difficulty": "hard"},
+  {"id": 45, "pair": ["thigh", "sigh"],   "definitions": {"thigh": "upper leg", "sigh": "a long breath"}, "examples": {"thigh": "Strong thigh", "sigh": "Let out a sigh"}, "difficulty": "hard"},
+
+  {"id": 46, "pair": ["thank", "tank"],   "definitions": {"thank": "to express gratitude", "tank": "a large container"}, "examples": {"thank": "Thank you kindly", "tank": "A water tank"}, "difficulty": "hard"},
+  {"id": 47, "pair": ["three", "tree"],   "definitions": {"three": "the number 3", "tree": "a tall plant"}, "examples": {"three": "Three apples", "tree": "Climb the tree"}, "difficulty": "hard"},
+
+  {"id": 48, "pair": ["ship", "chip"],    "definitions": {"ship": "a large boat", "chip": "a small fragment"}, "examples": {"ship": "Ride the ship", "chip": "A chip of stone"}, "difficulty": "medium"},
+  {"id": 49, "pair": ["share", "chair"],  "definitions": {"share": "to divide between", "chair": "a seat"}, "examples": {"share": "Share the cake", "chair": "Sit on the chair"}, "difficulty": "medium"},
+  {"id": 50, "pair": ["wash", "watch"],   "definitions": {"wash": "to clean with water", "watch": "to look; a timepiece"}, "examples": {"wash": "Wash your hands", "watch": "Watch the show"}, "difficulty": "medium"}
+]
