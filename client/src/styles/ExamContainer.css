@@ -1,0 +1,22 @@
+.exam-container {
+  max-width: 640px;
+  margin: 0 auto;
+  animation: fadeIn 0.4s ease-out;
+}
+
+.exit-link {
+  display: block;
+  margin: 20px auto 0;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 14px;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.exit-link:hover { color: #fff; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}

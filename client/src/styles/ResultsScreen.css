@@ -1,0 +1,142 @@
+.results-screen {
+  max-width: 720px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 16px;
+  padding: 32px 28px;
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.18);
+  animation: fadeIn 0.4s ease-out;
+}
+
+.results-screen h1 {
+  text-align: center;
+  margin: 0 0 24px;
+  font-size: 30px;
+  color: #1f2937;
+}
+
+.results-screen h2 {
+  margin: 24px 0 14px;
+  font-size: 18px;
+  color: #374151;
+}
+
+.score-card {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-radius: 14px;
+  padding: 28px;
+  text-align: center;
+  box-shadow: 0 8px 22px rgba(102, 126, 234, 0.45);
+  margin-bottom: 8px;
+}
+
+.score-value {
+  font-size: 52px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.grade-badge {
+  display: inline-block;
+  margin-top: 12px;
+  font-size: 24px;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.22);
+  padding: 6px 18px;
+  border-radius: 10px;
+}
+
+.score-detail {
+  margin-top: 12px;
+  font-size: 15px;
+  opacity: 0.95;
+}
+
+.review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 380px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.review-item {
+  display: flex;
+  gap: 14px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border-left: 4px solid #d1d5db;
+  background: #f9fafb;
+}
+
+.review-item.correct {
+  background: #f0fdf4;
+  border-left-color: #10b981;
+}
+.review-item.incorrect {
+  background: #fef2f2;
+  border-left-color: #ef4444;
+}
+
+.review-icon {
+  font-size: 22px;
+  font-weight: 700;
+  min-width: 28px;
+  text-align: center;
+}
+.review-item.correct .review-icon { color: #10b981; }
+.review-item.incorrect .review-icon { color: #ef4444; }
+
+.review-body { flex: 1; }
+
+.review-pair {
+  font-size: 15px;
+  color: #1f2937;
+  margin-bottom: 4px;
+}
+
+.review-line {
+  font-size: 13px;
+  color: #4b5563;
+  margin-top: 2px;
+}
+
+.review-line .bold { font-weight: 700; color: #1f2937; }
+.review-line .good { font-weight: 700; color: #047857; }
+.review-line .bad  { font-weight: 700; color: #b91c1c; }
+
+.btn-row {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 22px;
+  flex-wrap: wrap;
+}
+
+.btn-row button {
+  padding: 12px 22px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-row button.primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  box-shadow: 0 6px 14px rgba(102, 126, 234, 0.45);
+}
+.btn-row button.primary:hover { transform: translateY(-1px); }
+
+.btn-row button.ghost {
+  background: #e5e7eb;
+  color: #374151;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
